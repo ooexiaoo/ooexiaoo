@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 exiasgarden.pages.dev<br>🤝 I’m looking for help with learning JavaScipt<br>🌱 I’m currently learning JavaScript<br>💬 Ask me about Anime<br>⚡ Fun fact I've watched more than 500 anime till date
+🔭 exiasgarden.pages.dev<br>🤝 I’m looking for help with learning JavaScipt<br>🌱 I’m currently learning JavaScript<br>💬 Ask me about Anime<br>⚡ Fun fact I've watched more than 500 anime to date
 
 
 ## 🌐 Socials:
@@ -11,18 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=ooexiaoo&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ooexiaoo&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ooexiaoo&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ooexiaoo&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ooexiaoo&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ooexiaoo&icon=6&color=10)](https://visitcount.itsvg.in)
