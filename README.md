@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 exiasgarden.pages.dev<br>🤝 I’m looking for help with learning JavaScipt<br>🌱 I’m currently learning JavaScript<br>💬 Ask me about Anime<br>⚡ Fun fact I've watched more than 500 anime to date
+🔭 https://insightfulsage.com<br>
+🔭 https://kawaiidoro.com<br>🤝 Currently learning ReactJs<br>🌱 Hobby Coder<br>💬 Ask me about Anime<br>⚡ Fun fact I've watched more than 500 anime to date
 
 
 ## 🌐 Socials:
