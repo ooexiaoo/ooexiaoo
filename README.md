@@ -18,9 +18,9 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to build, exp
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide_title=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?ooexiaoo=ooexiaoo&show_icons=true&hide_title=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?ooexiaoo=ooexiaoo&layout=compact&theme=radical)
 
 ## 🧩 Fun Fact
 
